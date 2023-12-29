@@ -19,7 +19,7 @@ Chatty is chat application build with the power of MERN Stack and Socket.io.
 Both should be installed and make sure mongodb is running.
 
 ```shell
-git clone https://github.com/koolkishan/chat-app-react-nodejs
+git clone https://github.com/hvsanthosh/chatty.git
 cd chatty-app-react-nodejs
 ```
 
